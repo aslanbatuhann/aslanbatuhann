@@ -1,25 +1,16 @@
-### Hi there 👋
-<br />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-📩 Connect with me:
+## I'm a Engineer, Software Developer, Student ...
+-  I’m looking to collaborate with other java developer .
+-  I’m looking for help with java back-end developer.
+-  Fun fact: I love to play volleyball,history.
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />]
 
-<br />
+### 📩 Connect with me:
 
-[linkedin]:https://www.linkedin.com/in/batuhanaslan96/
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
-<!--
-**aslanbatuhann/aslanbatuhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/batuhanaslan96/
+[gmail]: mailto:aslanbatuhan9601@gmail.com
