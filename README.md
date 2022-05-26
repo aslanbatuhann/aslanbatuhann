@@ -1,4 +1,13 @@
 ### Hi there 👋
+<br />
+
+📩 Connect with me:
+
+<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
+<br />
+
+[linkedin]:https://www.linkedin.com/in/batuhanaslan96/
 
 <!--
 **aslanbatuhann/aslanbatuhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
