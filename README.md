@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm  Batuhan ASLAN I'm a Engineer, Software Developer ...
+## I'm  Batuhan ASLAN I'm a  Software Developer ...
 -  I’m looking to collaborate with other java developer .
 -  I’m looking for help with java back-end developer.
 -  Fun fact: I love to play volleyball,history.
